@@ -37,7 +37,7 @@ Follow these steps to get the game up and running:
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/Sudoku-Tkinter.git
+   git clone https://github.com/black-fractal/Sudoku-Tkinter.git
    ```
 2. Navigate to the project directory.
    ```
