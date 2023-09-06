@@ -15,7 +15,7 @@ An interactive Sudoku game built with Python and Tkinter, featuring a solver and
 
 This repository contains the source code for an interactive Sudoku game built using Python's Tkinter library. The application not only provides a graphical user interface for playing Sudoku but also comes with a real-time number validation and hint system. It utilizes backtracking algorithms for both solving and generating Sudoku puzzles.
 
-![Sudoku Screenshot]([screenshot.png](https://github.com/black-fractal/Sudoku-Tkinter/blob/main/Sudoku-Tkinter.py))
+![Sudoku Screenshot](https://github.com/black-fractal/Sudoku-Tkinter/blob/main/Sudoku-Tkinter.png)
 
 ## Features
 
